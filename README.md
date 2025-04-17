@@ -1,6 +1,6 @@
 # C_exercises
-This repo contains some samples of customized versions of C library functions
-#################################################################################
+This repo contains some exercise samples of customized versions of C library functions that I've coded
+#######################################################################################################
 
 # ft_putnbr
 Displays the number entered as a parameter. 
